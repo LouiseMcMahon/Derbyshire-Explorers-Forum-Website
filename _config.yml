@@ -1,0 +1,37 @@
+title: Derbyshire Explorers Forum
+description: A day of talks for Derbyshire cave and mine explorers
+
+url: https://derbyshireexplorersforum.co..uk
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+sass:
+    style: compressed
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+    - title: Home
+      url: /index.html
+    - title: Speakers
+      url: /speakers
+    - title: Tickets
+      url: /tickets
+
+#social:
+#    github: brianmaierjr
+#    twitter: brianmaierjr
+#    facebook: brianmaierjr
+#    email: brimaidesigns@gmail.com
+#    linkedin: brianmaierjr
+
+#google_analytics: "UA-58263416-1"
+
+#disqus:
+#    shortname: brianmaierjr
