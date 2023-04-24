@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derbyshire Explorers Forum</title>
+    <description>A day of talks for Derbyshire cave and mine explorers</description>
+    <link>https://derbyshireexplorersforum.co.uk/</link>
+    <atom:link href="https://derbyshireexplorersforum.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Apr 2023 16:00:08 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2023 16:00:08 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator></channel>
+</rss>
