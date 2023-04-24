@@ -582,3 +582,10 @@ DARK THEME STYLING
 		border-top-color: lighten(black, 10%);
 	}
 }
+
+/***************
+Forms
+***************/
+.ff-title, .ff-description, .ff-powered-img img {
+  display: none !important;
+}
